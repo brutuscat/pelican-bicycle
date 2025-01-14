@@ -85,3 +85,5 @@ Prompt:
 <img src="Llama-3.3-70B-Instruct-6bit.svg" width="600" alt="Llama 3.3 70B 6bit">
 ## Llama 3.3 q8
 <img src="Llama-3.3-70B-Instruct-8bit.svg" width="600" alt="Llama 3.3 70B 8bit">
+## Llama 3.3 q8 expert
+<img src="Llama-3.3-70B-Instruct-8bit.svg" width="600" alt="8bit expert.svg">
