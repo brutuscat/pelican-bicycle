@@ -81,5 +81,7 @@ Prompt:
 <img src="us.amazon.nova-pro-v1-0.svg" width="600" alt="Amazon Nova Pro">
 
 ## MLX Llama
-## q6
+## Llama 3.3 q6
 <img src="Llama-3.3-70B-Instruct-6bit.svg" width="600" alt="Llama 3.3 70B 6bit">
+## Llama 3.3 q8
+<img src="Llama-3.3-70B-Instruct-8bit.svg" width="600" alt="Llama 3.3 70B 8bit">
